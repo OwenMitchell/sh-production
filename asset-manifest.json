@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sh-production/static/css/main.f5e0d8a5.css",
+    "main.js": "/sh-production/static/js/main.c48c9083.js",
+    "static/js/787.2e4ba72c.chunk.js": "/sh-production/static/js/787.2e4ba72c.chunk.js",
+    "static/media/bracket_open_down_white_on_black.jpg": "/sh-production/static/media/bracket_open_down_white_on_black.f9f9aecc92a4a07358b0.jpg",
+    "static/media/bandcamp_50.jpg": "/sh-production/static/media/bandcamp_50.4003040acb566ff06901.jpg",
+    "index.html": "/sh-production/index.html",
+    "main.f5e0d8a5.css.map": "/sh-production/static/css/main.f5e0d8a5.css.map",
+    "main.c48c9083.js.map": "/sh-production/static/js/main.c48c9083.js.map",
+    "787.2e4ba72c.chunk.js.map": "/sh-production/static/js/787.2e4ba72c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5e0d8a5.css",
+    "static/js/main.c48c9083.js"
+  ]
+}
