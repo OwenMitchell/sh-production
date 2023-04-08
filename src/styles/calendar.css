@@ -1,0 +1,26 @@
+.App-calendar{
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+.App-calendar-event{
+  margin-bottom: .5em;
+  padding-top: .5em;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.App-calendar{
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+.App-calendar-event{
+  margin-bottom: .5em;
+  padding-top: .5em;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.App-calendar-event-venue{
+  justify-content: center;
+}
