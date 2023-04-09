@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/sh-production/static/css/main.0580d15a.css",
-    "main.js": "/sh-production/static/js/main.c48c9083.js",
+    "main.css": "/sh-production/static/css/main.80247a5c.css",
+    "main.js": "/sh-production/static/js/main.42020efe.js",
     "static/js/787.2e4ba72c.chunk.js": "/sh-production/static/js/787.2e4ba72c.chunk.js",
+    "static/media/SH_1.png": "/sh-production/static/media/SH_1.086fb49fbd1f3c568ed1.png",
+    "static/media/SH_2.png": "/sh-production/static/media/SH_2.fdf36540f5b170e297cc.png",
     "static/media/BebasNeue-Regular.ttf": "/sh-production/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
     "static/media/bracket_open_down_white_on_black.jpg": "/sh-production/static/media/bracket_open_down_white_on_black.f9f9aecc92a4a07358b0.jpg",
     "static/media/bandcamp_50.jpg": "/sh-production/static/media/bandcamp_50.4003040acb566ff06901.jpg",
+    "static/media/slick.svg": "/sh-production/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/sh-production/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/sh-production/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/sh-production/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/sh-production/index.html",
-    "main.0580d15a.css.map": "/sh-production/static/css/main.0580d15a.css.map",
-    "main.c48c9083.js.map": "/sh-production/static/js/main.c48c9083.js.map",
+    "main.80247a5c.css.map": "/sh-production/static/css/main.80247a5c.css.map",
+    "main.42020efe.js.map": "/sh-production/static/js/main.42020efe.js.map",
     "787.2e4ba72c.chunk.js.map": "/sh-production/static/js/787.2e4ba72c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0580d15a.css",
-    "static/js/main.c48c9083.js"
+    "static/css/main.80247a5c.css",
+    "static/js/main.42020efe.js"
   ]
 }
