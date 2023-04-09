@@ -1,9 +1,14 @@
 import React from 'react';
-import About from './about.js';
-import Slider from "react-slick";
 
+// ------ NPM Components --------------------------------------------
+import Slider from "react-slick";
+import {Spotify} from "react-spotify-embed"
+// ------------------------------------------------------------------
+
+// ------ Images ----------------------------------------------------
 import SH_1 from "../../src/images/SH_1.png"
 import SH_2 from "../../src/images/SH_2.png"
+// ------------------------------------------------------------------
 
 export default function Content(props){
 
@@ -26,6 +31,10 @@ export default function Content(props){
                 </div>
                 <div class='slick_img'>
                     <img src={SH_2}/>
+                </div>
+                <div>
+                    <Spotify link="https://open.spotify.com/track/5tw4Kqm7Pg9CYj9Xqk2VFp?si=896c00a843424c7c">
+                    </Spotify>
                 </div>
            </Slider>
         </div>
