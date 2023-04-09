@@ -4,19 +4,9 @@ body{
 }
 
 .Page{
-  padding-left: 20vw;
-  padding-right: 20vw;
   display: grid;
-  grid-template-rows: 150px 150px 300px 250px 50px;
-}
-
-.App-navbar {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  font-size: 28px;
-  padding-left: 25%;
-  padding-right: 25%;
-  margin-bottom: 1em;
+  grid-template-rows: minmax(100px, 2fr) minmax(50px, 1fr) minmax(500px, 10fr) minmax(50px, 1fr);
+  grid-template-columns: minmax(1920px, 1fr);
 }
 
 .App-footer{
